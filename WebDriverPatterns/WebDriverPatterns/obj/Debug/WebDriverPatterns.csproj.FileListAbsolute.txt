@@ -1,0 +1,12 @@
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\obj\Debug\WebDriverPatterns.csprojAssemblyReference.cache
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\obj\Debug\WebDriverPatterns.csproj.CoreCompileInputs.cache
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\bin\Debug\WebDriverPatterns.exe.config
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\bin\Debug\WebDriverPatterns.exe
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\bin\Debug\WebDriverPatterns.pdb
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\bin\Debug\WebDriver.dll
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\bin\Debug\WebDriver.Support.dll
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\bin\Debug\WebDriver.xml
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\bin\Debug\WebDriver.Support.xml
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\obj\Debug\WebDriverPatterns.csproj.CopyComplete
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\obj\Debug\WebDriverPatterns.exe
+C:\Users\TTN\Desktop\work\WebDriverPatterns\WebDriverPatterns\WebDriverPatterns\obj\Debug\WebDriverPatterns.pdb
